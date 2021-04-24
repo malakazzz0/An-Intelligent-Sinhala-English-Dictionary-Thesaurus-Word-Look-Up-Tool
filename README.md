@@ -5,10 +5,6 @@
 
 <h6 align="center"><a href="http://thesaurus.projects.uom.lk">thesaurus.projects.uom.lk</a></h6>
 
-```diff
-- This project is still in Progress
-```
-
 ### Supervisor : Prof. Gihan Dias
 
 ### Group Members
